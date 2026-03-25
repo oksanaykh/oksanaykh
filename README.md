@@ -6,11 +6,9 @@ London-based data analyst with 3+ years in product analytics and data pipelines 
 
 ## 🤖 What I'm building now
 
+**🔍 agent-check-dataset** — Web application for pre-analysis CSV dataset validation. Upload a file, get a full diagnostic report across 9 check categories (structure, types, missing values, duplicates, numerics, categoricals, dates, keys, business logic). Each issue comes with an explanation and a one-click automated fix. Download the cleaned dataset when done. Roadmap: LLM-generated issue explanations in plain language, batch fix mode.
+
 **📊 agent-sales-dashboards** — AI agent that generates C-level, marketing and product dashboards from any structured dataset automatically. Input: raw data. Output: ready-to-use dashboards with key metrics identified and visualised. Roadmap: universal dataset support, configurable metric templates.
-
-**🔍 agent-data-quality-monitor** — Detects anomalies, schema drift, and statistical outliers in datasets before analysis begins. Returns a structured quality report. Roadmap: auto-correction mode — agent will not only flag issues but fix them directly.
-
-**🎯 agent-job-match** — Scores a CV against a job description using LLM. Returns a match percentage, identifies missing keywords, and suggests targeted improvements — without fabricating any experience.
 
 ---
 
