@@ -1,10 +1,10 @@
-# Oksana Khoroshun — Data Analyst & AI Agent Builder
+# Oksana Khoroshun — Data Analyst 
 
-London-based data analyst with 3+ years in product analytics and data pipelines (Web3, blockchain, HFT), currently building AI agents that automate analytical workflows. I work at the intersection of reliable data infrastructure and intelligent automation.
+London-based data analyst with 3+ years in product analytics and data pipelines (Web3, blockchain, HFT). Currently deepening expertise in experimentation (A/B testing) and data engineering (dbt), with hands-on experience building AI agents to automate analytical workflows.
 
 ---
 
-## 🤖 What I'm building now
+## 🛠 Independent projects
 
 **🔍 agent-check-dataset** — Web application for pre-analysis CSV dataset validation. Upload a file, get a full diagnostic report across 9 check categories (structure, types, missing values, duplicates, numerics, categoricals, dates, keys, business logic). Each issue comes with an explanation and a one-click automated fix. Download the cleaned dataset when done. Roadmap: LLM-generated issue explanations in plain language, batch fix mode.
 
@@ -17,7 +17,7 @@ London-based data analyst with 3+ years in product analytics and data pipelines 
 | Area | Tools |
 |------|-------|
 | **Data & Analytics** | Python · SQL · PostgreSQL · ClickHouse · Databricks · Pandas · Jupyter |
-| **Pipelines** | Fivetran · Segment.io · streaming & batch · 100M+ row datasets |
+| **Pipelines** | dbt ·   Fivetran · Segment.io · streaming & batch · 100M+ row datasets |
 | **Visualization** | Tableau · Metabase · Looker · Redash |
 | **AI / Automation** | LangChain · LangGraph · Claude API · OpenAI API · RAG · prompt engineering |
 | **Infra** | Linux · Git · multi-server operations · Slack & Telegram bots |
@@ -39,8 +39,8 @@ London-based data analyst with 3+ years in product analytics and data pipelines 
 ## 📚 Currently studying
 
 - AI agents end-to-end: LangGraph · LLMOps · agent evaluation · production systems
-- A/B testing methodology and statistical experimentation design
 - dbt Fundamentals
+- A/B testing methodology and statistical experimentation design
 
 ---
 
